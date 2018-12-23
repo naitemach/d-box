@@ -590,11 +590,9 @@ h1 span {
     flex-wrap: wrap;
     justify-content: center;
 }
-.copyright {
-    margin-top: 320px;
-}
+
 .footer p {
-    margin-top: 250px;
+ 
     font-size: 14px;
     color: #fff;
     letter-spacing: 2px;
