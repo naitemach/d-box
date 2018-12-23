@@ -593,11 +593,14 @@ h1 span {
 }
 
 .footer p {
+    margin-top: 250px;
     font-size: 14px;
     color: #fff;
     letter-spacing: 2px;
     text-align: center;
     line-height: 1.8;
+}
+.copyright {
 }
 
 .footer p a {
