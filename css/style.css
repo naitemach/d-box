@@ -213,7 +213,7 @@ nav.horizontal ul li {
 /* horizontal menu */
 
 img {
-    max-width: 100%;
+    width: 50%;
     /* Add the blur effect */
 /*    filter: blur(8px);
     -webkit-filter: blur(8px);
@@ -221,8 +221,7 @@ img {
   filter: alpha(opacity=50);*/
    
 
-/*    height: 100%; 
-*/
+height: 50%; 
 
 }
 
@@ -599,8 +598,6 @@ h1 span {
     letter-spacing: 2px;
     text-align: center;
     line-height: 1.8;
-}
-.copyright {
 }
 
 .footer p a {
